@@ -1,0 +1,200 @@
+{
+  "examples": [
+    {
+      "pattern": ":)",
+      "emotion": "happiness"
+    },
+    {
+      "pattern": ":-)",
+      "emotion": "happiness"
+    },
+    {
+      "pattern": ":]",
+      "emotion": "happiness"
+    },
+    {
+      "pattern": ":D",
+      "emotion": "happiness"
+    },
+    {
+      "pattern": ":(",
+      "emotion": "sadness"
+    },
+    {
+      "pattern": ":-(",
+      "emotion": "sadness"
+    },
+    {
+      "pattern": ":[",
+      "emotion": "sadness"
+    },
+    {
+      "pattern": ":'(",
+      "emotion": "sadness"
+    },
+    {
+      "pattern": "T_T",
+      "emotion": "sadness"
+    },
+    {
+      "pattern": "^_^",
+      "emotion": "cuteness"
+    },
+    {
+      "pattern": "^^",
+      "emotion": "cuteness"
+    },
+    {
+      "pattern": "UwU",
+      "emotion": "cuteness"
+    },
+    {
+      "pattern": "OwO",
+      "emotion": "cuteness"
+    },
+    {
+      "pattern": ":3",
+      "emotion": "cuteness"
+    },
+    {
+      "pattern": ";)",
+      "emotion": "wink"
+    },
+    {
+      "pattern": ";-)",
+      "emotion": "wink"
+    },
+    {
+      "pattern": ":P",
+      "emotion": "playful"
+    },
+    {
+      "pattern": ":-P",
+      "emotion": "playful"
+    },
+    {
+      "pattern": "XP",
+      "emotion": "playful"
+    },
+    {
+      "pattern": ":O",
+      "emotion": "surprise"
+    },
+    {
+      "pattern": ":-O",
+      "emotion": "surprise"
+    },
+    {
+      "pattern": "O_O",
+      "emotion": "surprise"
+    },
+    {
+      "pattern": "o_O",
+      "emotion": "surprise"
+    },
+    {
+      "pattern": ">:(",
+      "emotion": "anger"
+    },
+    {
+      "pattern": ">:-(",
+      "emotion": "anger"
+    },
+    {
+      "pattern": "D:<",
+      "emotion": "anger"
+    },
+    {
+      "pattern": "grr",
+      "emotion": "anger"
+    },
+    {
+      "pattern": ":/",
+      "emotion": "confusion"
+    },
+    {
+      "pattern": ":-/",
+      "emotion": "confusion"
+    },
+    {
+      "pattern": ":\\",
+      "emotion": "confusion"
+    },
+    {
+      "pattern": ":-\\",
+      "emotion": "confusion"
+    },
+    {
+      "pattern": "o.o",
+      "emotion": "confusion"
+    },
+    {
+      "pattern": "-_-",
+      "emotion": "boredom"
+    },
+    {
+      "pattern": "._.",
+      "emotion": "boredom"
+    },
+    {
+      "pattern": "u_u",
+      "emotion": "boredom"
+    },
+    {
+      "pattern": "-.-",
+      "emotion": "sleepy"
+    },
+    {
+      "pattern": "z_z",
+      "emotion": "sleepy"
+    },
+    {
+      "pattern": ":$",
+      "emotion": "embarrassed"
+    },
+    {
+      "pattern": ":-$",
+      "emotion": "embarrassed"
+    },
+    {
+      "pattern": "^^'",
+      "emotion": "embarrassed"
+    },
+    {
+      "pattern": "QQ",
+      "emotion": "crying"
+    },
+    {
+      "pattern": "Q_Q",
+      "emotion": "crying"
+    },
+    {
+      "pattern": ";_;",
+      "emotion": "crying"
+    },
+    {
+      "pattern": "!!!",
+      "emotion": "excitement"
+    },
+    {
+      "pattern": "!!1",
+      "emotion": "excitement"
+    },
+    {
+      "pattern": "8D",
+      "emotion": "excitement"
+    },
+    {
+      "pattern": "D:-(",
+      "emotion": "anger"
+    },
+    {
+      "pattern": ":<",
+      "emotion": "very angry"
+    },
+    {
+      "pattern": "omg",
+      "emotion": "oh my gosh"
+    }
+  ]
+}
